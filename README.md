@@ -19,5 +19,5 @@ Finally, open vim and type `:PluginInstall`. Allow the prompt to run, and when i
 ## Usage
 
 - Open the NERDTree file browser: Ctrl-n
-- Preview Markdown files (requires mdb): Ctrl-p
+- Preview Markdown files (requires mdp): Ctrl-p
 
