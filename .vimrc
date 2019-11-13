@@ -56,5 +56,3 @@ autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isT
 " vim-gitgutter
 let g:gitgutter_git_executable = "/usr/bin/git"
 
-" Markdown
-nmap <C-p> :!mdp %<cr>
