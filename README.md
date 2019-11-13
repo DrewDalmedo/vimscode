@@ -12,7 +12,7 @@ First, clone this repository and copy the .vimrc file to your home directory:
 
 ```
 git clone https://github.com/DrewDalmedo/vimscode.git
-cp vimscode/.vimrc ~
+ln vimscode/.vimrc ~
 ```
 
 Next, install Vundle. Follow the instructions on their GitHub page (https://github.com/VundleVim/Vundle.vim).
