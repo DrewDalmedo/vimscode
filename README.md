@@ -15,7 +15,11 @@ git clone https://github.com/DrewDalmedo/vimscode.git
 ln vimscode/.vimrc ~
 ```
 
-Next, install Vundle. Follow the instructions on their GitHub page (https://github.com/VundleVim/Vundle.vim).
+Next, install Vundle: (for more info, go to https://github.com/VundleVim/Vundle.vim)
+
+```
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+```
 
 Finally, open vim and type `:PluginInstall`. Allow the prompt to run, and when it finishes, you're done!
 
