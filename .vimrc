@@ -13,7 +13,7 @@ Plugin 'cespare/vim-toml'
 Plugin 'itchyny/lightline.vim'
 Plugin 'tpope/vim-surround'
 Plugin 'scrooloose/nerdtree'
-"Plugin 'airblade/vim-gitgutter'
+Plugin 'airblade/vim-gitgutter'
 " Plugins go above here
 
 call vundle#end()
@@ -45,7 +45,7 @@ nmap <C-n> :NERDTreeToggle<cr>
 " lightline
 set laststatus=2
 let g:lightline = {
-    \ 'colorscheme': 'nord'
+    \ 'colorscheme': 'darcula'
     \ }
 
 " NERDTree
